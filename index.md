@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Home
-permalink: /home/
+layout: home
 ---
 
 **DirectDM**: a tool for dark matter direct detection
