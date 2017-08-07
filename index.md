@@ -10,11 +10,12 @@ The `Mathematica` package is available from: [github.com/DirectDM/directdm-mma/]
 
 -----
 
+<br>
 
 ## Citation
 If you use `DirectDM` please cite
 *   [1611.00368](https://inspirehep.net/record/1495512): Chiral effective theory of dark matter direct detection;
 Bishara, Brod, Grinstein, and Zupan
-*   [1707.XXXX](https://inspirehep.net/record/1611242): From quarks to nucleons in dark matter direct detection;
+*   [1707.06998](https://inspirehep.net/record/1611242): From quarks to nucleons in dark matter direct detection;
 Bishara, Brod, Grinstein, and Zupan
 *   [1708.XXXX](): DirectDM: a tool for dark matter direct detection; Bishara, Brod, Grinstein, and Zupan
