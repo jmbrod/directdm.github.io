@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /home/
+---
+
 **DirectDM**: a tool for dark matter direct detection
 =========
 
@@ -6,7 +12,7 @@ valid at the nuclear scale. The program is available as a `Mathematica` package 
 package shortly.
 
 
-The `Mathematica` package is available from: [github.com/DirectDM/directdm-mma/](github.com/DirectDM/directdm-mma/)
+The `Mathematica` package is available from: [github.com/DirectDM/directdm-mma](https://github.com/DirectDM/directdm-mma)
 
 -----
 
