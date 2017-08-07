@@ -9,7 +9,7 @@ title: Home
 **DirectDM**: a tool for dark matter direct detection
 =========
 
-`DirectDM` is a program that matches Wilson coefficients of a relativitic EFT onto a Galilean-invariant NR EFT
+`DirectDM` is a program that matches Wilson coefficients of a relativistic EFT onto a Galilean-invariant NR EFT
 valid at the nuclear scale. The program is available as a `Mathematica` package and will be available as a `python`
 package shortly.
 
