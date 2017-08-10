@@ -26,4 +26,4 @@ If you use `DirectDM` please cite
 Bishara, Brod, Grinstein, and Zupan
 *   [1707.06998](https://inspirehep.net/record/1611242): From quarks to nucleons in dark matter direct detection;
 Bishara, Brod, Grinstein, and Zupan
-*   [1708.XXXX](): DirectDM: a tool for dark matter direct detection; Bishara, Brod, Grinstein, and Zupan
+*   [1708.02678](https://inspirehep.net/record/1615183): DirectDM: a tool for dark matter direct detection; Bishara, Brod, Grinstein, and Zupan
