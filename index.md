@@ -27,3 +27,5 @@ Bishara, Brod, Grinstein, and Zupan
 *   [1707.06998](https://inspirehep.net/record/1611242): From quarks to nucleons in dark matter direct detection;
 Bishara, Brod, Grinstein, and Zupan
 *   [1708.02678](https://inspirehep.net/record/1615183): DirectDM: a tool for dark matter direct detection; Bishara, Brod, Grinstein, and Zupan
+*   [1710.10218](https://inspirehep.net/record/1632956): Effective Field Theory for Dark Matter Direct Detection up to Dimension Seven; Brod, Grinstein, and Zupan
+*   [1801.04240](https://inspirehep.net/record/1647962): Weak mixing below the weak scale in dark-matter direct detection; Brod, Gootjes-Dreesbach, Tammaro, and Zupan
