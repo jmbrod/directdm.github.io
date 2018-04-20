@@ -10,11 +10,12 @@ title: Home
 =========
 
 `DirectDM` is a program that matches Wilson coefficients of a relativistic EFT onto a Galilean-invariant non-relativistic EFT
-valid at the nuclear scale. The program is available as a `Mathematica` package and will soon be available as a `python`
-package as well.
+valid at the nuclear scale. The program is available both as a `Mathematica` and a `python` package.
 
 
 The `Mathematica` package is available from: [github.com/DirectDM/directdm-mma](https://github.com/DirectDM/directdm-mma)
+
+The `python` package is available from: [github.com/DirectDM/directdm-py](https://github.com/DirectDM/directdm-py)
 
 -----
 
